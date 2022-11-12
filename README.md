@@ -3,15 +3,13 @@ This is an Ecommerce website. Users can view products from different categories.
 
 # # Techstack used
 
-[Fake Store API]
+[Fake Store API](https://fakestoreapi.com/)- FakeStoreAPI was used to get the product data. Furthermore, it was used to get the resulted products from a search and from using filter on the products.
 
-[Stripe]
+[Stripe](https://stripe.com/en-ca)- Stripe was used to create the payment feature of the website. It was used to process shipping information and card payments.
 
-[Angular]
+[Angular](https://angular.io/)- Angular was used to create the frontend of the website
 
-[TypeScript]
-
-[Node.js]
+[Node.js](https://nodejs.org/en/) - Node.js was used to create the backend of the website and it was used to interact with the API
 
 [Tailwind CSS](https://tailwindcss.com/)- Tailwind CSS was used to create the styling of the entire app
 
